@@ -4,7 +4,13 @@
     // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-    
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "ticketmachine.Main",
+            "projectName": "TicketMachineMaven_0"
+        },
         {
             "name": "Java",
             "type": "java",
